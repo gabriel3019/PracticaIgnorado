@@ -1,0 +1,6 @@
+#Para que ignore los archivos.txt dentro de Trabajos
+Trabajos/*.txt
+.java
+#Para que no ignore la carpeta bin y dentro de bin la carpeta prueba
+!bin/
+!bin/Prueba
